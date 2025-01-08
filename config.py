@@ -1,2 +1,1 @@
 TOKEN = ''
-RAPIDAPI_KEY = ''
